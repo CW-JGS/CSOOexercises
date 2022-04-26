@@ -1,0 +1,15 @@
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\bin\Debug\net6.0\OOExercise.exe
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\bin\Debug\net6.0\OOExercise.deps.json
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\bin\Debug\net6.0\OOExercise.runtimeconfig.json
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\bin\Debug\net6.0\OOExercise.dll
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\bin\Debug\net6.0\OOExercise.pdb
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\obj\Debug\net6.0\OOExercise.csproj.AssemblyReference.cache
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\obj\Debug\net6.0\OOExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\obj\Debug\net6.0\OOExercise.AssemblyInfoInputs.cache
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\obj\Debug\net6.0\OOExercise.AssemblyInfo.cs
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\obj\Debug\net6.0\OOExercise.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\obj\Debug\net6.0\OOExercise.dll
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\obj\Debug\net6.0\refint\OOExercise.dll
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\obj\Debug\net6.0\OOExercise.pdb
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\obj\Debug\net6.0\OOExercise.genruntimeconfig.cache
+C:\Users\jacks\Desktop\projects\Swinburne\CSOOexercises\OOExercise\obj\Debug\net6.0\ref\OOExercise.dll
